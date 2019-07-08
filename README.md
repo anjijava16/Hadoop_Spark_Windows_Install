@@ -1,6 +1,14 @@
 # Hadoop_Spark_Windows_Install
 
 
+# Download below softwares:
+    i) https://archive.apache.org/dist/hadoop/common/hadoop-2.7.2/hadoop-2.7.2-src.tar.gz
+    ii) https://github.com/anjijava16/Hadoop_Spark_Windows_Install/blob/master/hadoop2.7.2%20(1).zip
+    iii) Install Java inside the work fodler (Copy from c:/program file /java to c:/work/java locatin)
+                    C:\work\Java\jdk1.8.0_211
+     iv) changes in files                
+    
+    
 hdfs.cmd namenode -format
 start-dfs.cmd && start-yarn.cmd
 
